@@ -48,3 +48,7 @@ $ cdk deploy
 ![](images/synthetics.png)
 
 ![](images/pipeline.png)
+
+
+## Credits
+- https://github.com/aws-samples/amazon-eks-cicd-codebuild
